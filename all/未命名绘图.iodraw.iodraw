@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z9LMqEuUaPgimso5hdBu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73" y="68" width="255" height="383" as="geometry" />
+          <mxGeometry x="73" y="68" width="305" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LMqEuUaPgimso5hdBu-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217" y="111" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
