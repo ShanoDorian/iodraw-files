@@ -14,7 +14,7 @@
           <mxGeometry x="142" y="131" width="419" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculate solar altitude/azimuth angles&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="193" width="419" height="45" as="geometry" />
+          <mxGeometry x="142" y="190" width="419" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Output solar position boundary conditions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="142" y="260" width="419" height="45" as="geometry" />
