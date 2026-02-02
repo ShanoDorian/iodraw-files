@@ -19,7 +19,7 @@
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="309.5" y="344" width="193" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="115" y="371" width="594" height="265" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Solar position → Parametric shading model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
