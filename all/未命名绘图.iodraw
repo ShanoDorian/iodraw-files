@@ -13,7 +13,7 @@
         <mxCell id="z9LMqEuUaPgimso5hdBu-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Historical meteorological data → Future climate scenarios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="139" y="107" width="419" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-2" value="EPW气象数据&lt;div&gt;纬度/经度/时区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-2" value="Calculate solar altitude/azimuth angles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="139" y="172" width="419" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-3" value="EPW气象数据&lt;div&gt;纬度/经度/时区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
