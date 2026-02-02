@@ -20,10 +20,10 @@
           <mxGeometry x="73" y="138" width="419" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Output solar position boundary conditions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C7D8;strokeColor=#788AA3;direction=west;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="292" width="419" height="63" as="geometry" />
+          <mxGeometry x="73" y="287" width="419" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Solar position → Parametric shading model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;fontColor=#46495D;strokeColor=#788AA3;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670.5" y="135" width="419" height="63" as="geometry" />
+          <mxGeometry x="678.5" y="133" width="419" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculate shading coefficient&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;fontColor=#46495D;strokeColor=#788AA3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="670.5" y="205.5" width="419" height="63" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="275" y="492" width="624" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Calculate solar altitude/azimuth angles&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C7D8;fillStyle=auto;strokeColor=#788AA3;direction=west;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="213" width="419" height="63" as="geometry" />
+          <mxGeometry x="73" y="213" width="419" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="554" y="232" width="66" height="44" as="geometry" />
