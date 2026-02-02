@@ -16,9 +16,6 @@
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Output solar position boundary conditions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="249" width="419" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="344" width="193" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="115" y="371" width="594" height="265" as="geometry" />
         </mxCell>
@@ -31,9 +28,6 @@
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Drive RC network to simulate indoor thermal environment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="208" y="563" width="419" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="315.5" y="645" width="193" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="111.5" y="678" width="594" height="265" as="geometry" />
         </mxCell>
@@ -43,7 +37,7 @@
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;NSGA-II algorithm for Pareto optimal solutions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="205" y="812" width="419" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Multi-scenario evaluation to screen robust solutions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Multi-scenario evaluation to screen robust solutions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="205" y="870" width="419" height="45" as="geometry" />
         </mxCell>
         <mxCell id="ZxCgwE4oF7bnHHfJ_Scm-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Dynamic Shading&amp;nbsp; Building Thermal Response Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
