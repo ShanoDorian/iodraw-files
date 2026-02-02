@@ -11,10 +11,10 @@
           <mxGeometry x="195.5" y="78" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z9LMqEuUaPgimso5hdBu-6" value="EPW气象数据&lt;div&gt;纬度/经度/时区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="251" y="137" width="101" height="131" as="geometry" />
+          <mxGeometry x="172" y="133" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z9LMqEuUaPgimso5hdBu-7" value="EPW气象数据&lt;div&gt;纬度/经度/时区&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="130" width="101" height="131" as="geometry" />
+          <mxGeometry x="398" y="140" width="101" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
